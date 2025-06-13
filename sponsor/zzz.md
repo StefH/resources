@@ -1,4 +1,4 @@
-### Sponsors
+## Sponsors
 
 [Entity Framework Extensions](https://entityframework-extensions.net/?utm_source=StefH) and [Dapper Plus](https://dapper-plus.net/?utm_source=StefH) are major sponsors and proud to contribute to the development of **PROJECT**.
 
